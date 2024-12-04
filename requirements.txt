@@ -1,0 +1,9 @@
+torch==2.5.0
+torchvision==0.20.0
+torchaudio==2.5.0
+tqdm
+matplotlib
+pandas
+ipykernel
+ipywidgets
+transformers==4.46.3
