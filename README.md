@@ -12,4 +12,4 @@ Data can be found [there](https://github.com/OFA-Sys/ONE-PEACE/blob/main/dataset
 
 ## Weights
 
-For text and audio encoder model weights are downloded with hugging face. Projector weights are part of a release that can be found [there](TODO link)
+For text and audio encoder model weights are downloded with hugging face. Projector weights are part of a release that can be found [there]([TODO link](https://github.com/Anuiel/small-clap/releases/tag/Main))
